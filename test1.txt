@@ -1,1 +1,2 @@
 this is sample git file
+This is sample test2 file
